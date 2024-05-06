@@ -1,0 +1,6 @@
+torch
+torchvision
+torchaudio
+surya-ocr
+transformers==4.36.2
+Pillow
